@@ -34,3 +34,6 @@ Sorun giderme
 Not: Bu paket hicbir video dosyasi barindirmaz; ucyuncu taraf
 oynaticilardaki baglantilari listeler. Icerik haklari ilgili hak
 sahiplerine aittir.
+
+En iyi Calisan player
+Sibnet - dir
